@@ -1,0 +1,98 @@
+/* Beginning Css */
+
+html {
+		background-color: #797267;
+		
+}
+
+body {
+		margin: 0 auto;
+		padding: 0;
+		background-color: #c7b299;
+		margin-left: 150px;
+		margin-right: 150px;
+		margin-bottom: 10%;
+		margin-top: 10%;
+		
+}
+
+h1 {
+		font-family: serif;
+		font-weight: bold;
+		color: #000000;
+		font-size: 50px;
+		text-align: center;
+		padding-top: 5%;
+		padding-bottom: 5%;
+		
+}
+
+h2, h3 {
+		font-family: sans-serif;
+		font-weight: normal;
+		color: #000000;
+		
+}
+
+#describe {
+		float: left;
+		width: 500px;
+		height: 50px;
+		margin-left: 5%;
+		display: inline;
+	
+
+		
+}
+
+#image {
+		float: right;
+		width: 60px;
+		margin-right: 10%;
+		
+}
+
+#test {
+		clear: left;
+		width: 180px;
+		height: 50px;
+		margin-left: 5%;
+		padding-top: 30%;
+		
+}
+
+#column1 {
+		clear: left;
+		width: 160px;
+		height: 50px;
+		margin-left: 5%;
+		padding-top: 2%;
+		text-align: center;
+	
+		
+		
+		
+}
+
+#column2 {
+		float: right;
+		width: 180px;
+		height: 50px;
+		margin-left: 5%;
+		padding-top: 2px;
+		text-align: center;
+		overflow: none;
+		
+		
+}
+
+footer {
+		clear: both;
+		text-align: center;
+		padding-top: 200px;
+		
+}
+
+
+
+		
