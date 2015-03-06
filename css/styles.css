@@ -50,6 +50,12 @@ h2, h3 {
 		
 }
 
+#caption {
+		text-align: center;
+		font-style: italic;
+		
+}
+
 #test {
 		clear: left;
 		width: 180px;
